@@ -14,3 +14,6 @@ Talks
 - [netlink and go](https://github.com/florianl/talks/blob/master/2018-35c3-NetlinkAndGo.pdf)
   Lightning Talk at [35C3](https://events.ccc.de/congress/2018/wiki/index.php)
   ([video recording](https://media.ccc.de/v/35c3-9567-lightning_talks_day_3#t=1081))
+- [Monitoring IP Networks](https://github.com/florianl/talks/blob/master/2019-syd-MonitoringIPNetworks.pdf)
+  Talk at [Women Who Go - Sydney](https://www.meetup.com/Women-Who-Go-Sydney/events/261093910/)
+  Talk at [Golang - Sydney](https://www.meetup.com/golang-syd/events/260434333/)
