@@ -19,3 +19,5 @@ Talks
   Talk at [Women Who Go - Sydney](https://www.meetup.com/Women-Who-Go-Sydney/events/261093910/)
   Talk at [Golang - Sydney](https://www.meetup.com/golang-syd/events/260434333/)
   Talk at [Gophers - Zurich](https://www.meetup.com/Zurich-Gophers/events/262249606/)
+- [eBPF and Go](https://github.com/florianl/talks/blob/master/2020-zrh-ebpfAndGo.pdf)
+  Talk at [Gophers - Zurich](https://www.meetup.com/Zurich-Gophers/events/267144500/)
