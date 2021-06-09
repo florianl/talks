@@ -21,3 +21,5 @@ Talks
   Talk at [Gophers - Zurich](https://www.meetup.com/Zurich-Gophers/events/262249606/)
 - [eBPF and Go](https://github.com/florianl/talks/blob/master/2020-zrh-ebpfAndGo.pdf)
   Talk at [Gophers - Zurich](https://www.meetup.com/Zurich-Gophers/events/267144500/)
+- [Tracing Go with eBPF](https://github.com/florianl/talks/blob/master/2021-ber-tracingGoWithEbpf.pdf)
+  Talk at [Golang Users Berlin](https://www.meetup.com/golang-users-berlin/events/278113151/)
