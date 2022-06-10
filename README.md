@@ -23,3 +23,5 @@ Talks
   Talk at [Gophers - Zurich](https://www.meetup.com/Zurich-Gophers/events/267144500/)
 - [Tracing Go with eBPF](https://github.com/florianl/talks/blob/master/2021-ber-tracingGoWithEbpf.pdf)
   Talk at [Golang Users Berlin](https://www.meetup.com/golang-users-berlin/events/278113151/)
+- [BLUEBOX - GO FOR KERNEL API TESTING](https://github.com/florianl/talks/blob/master/2022-zrh-bluebox-GoForKernelAPITesting.pdf)
+  Talk at [Gophers - Zurich](https://www.meetup.com/zurich-gophers/events/286220523/)
