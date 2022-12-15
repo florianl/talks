@@ -25,3 +25,5 @@ Talks
   Talk at [Golang Users Berlin](https://www.meetup.com/golang-users-berlin/events/278113151/)
 - [BLUEBOX - GO FOR KERNEL API TESTING](https://github.com/florianl/talks/blob/master/2022-zrh-bluebox-GoForKernelAPITesting.pdf)
   Talk at [Gophers - Zurich](https://www.meetup.com/zurich-gophers/events/286220523/)
+- [Go Performance Profiling](https://github.com/florianl/talks/blob/master/2022-zrh-goperf.pdf)
+  Talk at [Gophers - Zurich](https://www.meetup.com/zurich-gophers/events/289545102/)
