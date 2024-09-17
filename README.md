@@ -27,3 +27,5 @@ Talks
   Talk at [Gophers - Zurich](https://www.meetup.com/zurich-gophers/events/286220523/)
 - [Go Performance Profiling](https://github.com/florianl/talks/blob/master/2022-zrh-goperf.pdf)
   Talk at [Gophers - Zurich](https://www.meetup.com/zurich-gophers/events/289545102/)
+- [Continuous Profiling With Open Telemetry](https://github.com/florianl/talks/blob/master/2024-ebpf.io-OTel-profiling.pdf)
+  Talk at [eBPF Summit 2024](https://ebpf.io/summit-2024) - [Recording](https://www.youtube.com/watch?v=Q3y1UgigcCA)
